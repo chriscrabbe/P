@@ -1,0 +1,3 @@
+﻿  Expression.cpp
+c:\users\christopher\source\workspaces\workspace\c++ assignment\c++ assignment\expression.cpp(59): warning C4018: '<=': signed/unsigned mismatch
+  C++ Assignment.vcxproj -> C:\Users\Christopher\Source\Workspaces\Workspace\C++ assignment\Debug\C++ Assignment.exe
